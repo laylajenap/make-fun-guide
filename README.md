@@ -44,6 +44,18 @@ mistakes to skip along the way.
 
 The rest of this guide is that list with the details filled in.
 
+## How much time to budget
+
+- **Account and links:** about 10 minutes, once. Signing in, linking GitHub and
+  your wallet, and connecting the kit's command line.
+- **Reading a bounty page and its rules:** 10–20 minutes. This is the step
+  people skip and then pay for with a rejected entry.
+- **Building:** anywhere from an evening to several days, depending on the task.
+  Pick a bounty whose task you could explain to a friend before you start.
+- **Bundle, check, submit:** 15–30 minutes if the checks pass the first time.
+  Budget an extra hour for the fix-and-resubmit loop — that loop is normal, not
+  a sign you did it wrong.
+
 ## What make.fun actually is
 
 - **Bounties, not jobs.** Each bounty is one task with one deadline and one reward
